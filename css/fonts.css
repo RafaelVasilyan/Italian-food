@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'op-b';
+    src: url(../fonts/OpenSans-Bold.ttf);
+}
+@font-face {
+    font-family: 'rey';
+    src: url(../fonts/Reey-Regular.otf);
+}
+@font-face {
+    font-family: 'op-b-i';
+    src: url(../fonts/OpenSans-BoldItalic.ttf);
+}
+@font-face {
+    font-family: 'op-e-b';
+    src: url(../fonts/OpenSans-ExtraBold.ttf);
+}
+@font-face {
+    font-family: 'op-i';
+    src: url(../fonts/OpenSans-Italic.ttf);
+}
+@font-face {
+    font-family: 'op-r';
+    src: url(../fonts/OpenSans-Regular.ttf);
+}
+@font-face {
+    font-family: 'mon-r';
+    src: url(../fonts/Montserrat-Regular.ttf);
+}
+@font-face {
+    font-family: 'mon-b';
+    src: url(../fonts/OpenSans-Bold.ttf);
+}
+@font-face {
+    font-family: 'op-s-b';
+    src: url(../fonts/OpenSans-SemiBold.ttf);
+}
